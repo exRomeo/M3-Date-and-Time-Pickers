@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DateTimePickers</string>
+    <string name="select_time">Select Time</string>
+    <string name="please_enter_time_in_future">Please enter time in the future</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
